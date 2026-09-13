@@ -1,0 +1,10 @@
+# Local review and tool caches
+.tmp_shot_review/
+.sheet_work/
+skill_78fd0473-f2ea-417e-b217-9b3f6c40595a/
+
+# Dependency folders
+node_modules/
+
+# Temporary snapshots
+**/.tmp_*
